@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.stamatiou.moviesRepositoryApp.RepositoryActivity">
+    <item
+        android:id="@+id/addMovie"
+        android:title="@string/add_movie"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/searchByTitle"
+        android:title="@string/search_by_title"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/searchByTitlePart"
+        android:title="@string/search_by_title_part"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/searchByDirector"
+        android:title="@string/search_by_director"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/changePassword"
+        android:title="@string/change_password"
+        app:showAsAction="never" />
+</menu>

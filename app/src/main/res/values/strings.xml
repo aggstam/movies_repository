@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movies Repository</string>
+    <string name="titleField">Title:</string>
+    <string name="directorField">Director:</string>
+    <string name="lengthField">Length:</string>
+    <string name="categoryField">Category:</string>
+    <string name="yearField">Year:</string>
+    <string name="titleHint">Title</string>
+    <string name="directorHint">Director</string>
+    <string name="lengthHint">Length</string>
+    <string name="categoryHint">Category</string>
+    <string name="yearHint">Year</string>
+    <string name="submitButton">Submit</string>
+    <string name="searchButton">Search</string>
+    <string name="search_by_title_part">Search by Title Part</string>
+    <string name="search_by_director">Search by Director</string>
+    <string name="search_by_title">Search by Title</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="prompt_repository_password">Please enter Repository password:</string>
+    <string name="change_password">Change Password</string>
+    <string name="prompt_new_repository_password">Please enter new Repository password:</string>
+    <string name="prompt_new_repository_password_repeat">Please enter new Repository password again:</string>
+</resources>
