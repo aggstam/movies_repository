@@ -6,9 +6,7 @@ Users can interact with the records using touch or menus/buttons.
 Records are stored in a SQLite Database.
 <br>
 Password is stored as a Shared Preferences value and can be changed within the app.
-<br>
-<br>
-Activities:
+# Activities
 - PasswordProtection: Authenticates user before using the application.
 - Repository: Displays records.
 - Search: Search and modify/delete records.
